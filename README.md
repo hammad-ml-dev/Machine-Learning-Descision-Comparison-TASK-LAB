@@ -14,7 +14,7 @@ on four datasets.
 Metrics reported: accuracy, precision, recall, F1, tree depth, node count,
 leaf count, training time and prediction time.
 
-![Accuracy summary](results/summary.png)
+![Accuracy summary](ml-decision-trees/results/summary.png)
 
 ---
 
